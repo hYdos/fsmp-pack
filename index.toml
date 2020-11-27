@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/flamingo-oh-oh-oh.toml"
-hash = "d4baa996c054ce742974c77ffa0b04e225e63eb8bd37cc8733939f53848ac720"
+hash = "61744ca4c522fe4cd311dc2f53b54e2c416c3b03f12b04d1cfd915978b8729a5"
 metafile = true
 
 [[files]]
@@ -173,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/item-scroller.toml"
 hash = "241826058e4a7b43389db657a8ccc0b703912a60bfe1cdf579b37e669d88aa10"
+metafile = true
+
+[[files]]
+file = "mods/lil-tater-reloaded.toml"
+hash = "f5a33fd31f1a870366f91b5f621017751288d8dc92eba4849e09478b99f87bcc"
 metafile = true
 
 [[files]]
