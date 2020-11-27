@@ -1,0 +1,14 @@
+name = "Frying Pan"
+filename = "fryingpan-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3082/376/fryingpan-1.0.1.jar"
+hash-format = "murmur2"
+hash = "234727778"
+
+[update]
+[update.curseforge]
+file-id = 3082376
+project-id = 413166
+release-channel = "beta"

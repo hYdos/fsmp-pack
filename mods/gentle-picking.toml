@@ -1,0 +1,14 @@
+name = "Gentle Picking"
+filename = "gentle-picking-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3122/760/gentle-picking-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1059441491"
+
+[update]
+[update.curseforge]
+file-id = 3122760
+project-id = 422476
+release-channel = "beta"

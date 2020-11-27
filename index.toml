@@ -106,6 +106,11 @@ hash = "a3dc5e4111a18214315645b023b4477d8548516223faf5c639f90348cb199614"
 metafile = true
 
 [[files]]
+file = "mods/fabric-nether-roof-nerf.toml"
+hash = "250b353f7a934487a7678a2081ea2742270f956c5827748f36197ed7095e5ead"
+metafile = true
+
+[[files]]
 file = "mods/fabric-tree-chopper.toml"
 hash = "94bd632227bfcd06f4d2f3cdf1739aa228184850821882b78c7367cd096a9a3d"
 metafile = true
@@ -126,8 +131,18 @@ hash = "08840c87a6de20d05f41aafd836d8b5d09917df8b8227f1c8ccffc165814bffd"
 metafile = true
 
 [[files]]
+file = "mods/frying-pan.toml"
+hash = "394ab9a6f78dfd6652dde40c51d8b0cfc770fb6b973e5ed331a70b693d593dc8"
+metafile = true
+
+[[files]]
 file = "mods/gentle-fawn.toml"
 hash = "39402cbd16de985174f80fbb03563f5e91b5ae3d3b8b9c2260a71fd555eabfb6"
+metafile = true
+
+[[files]]
+file = "mods/gentle-picking.toml"
+hash = "4ba2c90c1abfe18289c283c79c2e6c114d0fa388c5c1c37a47925f02e38e368d"
 metafile = true
 
 [[files]]
@@ -158,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/item-scroller.toml"
 hash = "241826058e4a7b43389db657a8ccc0b703912a60bfe1cdf579b37e669d88aa10"
+metafile = true
+
+[[files]]
+file = "mods/lil-tater-reloaded.toml"
+hash = "f5a33fd31f1a870366f91b5f621017751288d8dc92eba4849e09478b99f87bcc"
 metafile = true
 
 [[files]]
@@ -206,6 +226,11 @@ hash = "506d4d6e17ab74adbaf7980af075d87c69e488d39fc33b68b2751bed24c9fd66"
 metafile = true
 
 [[files]]
+file = "mods/netherite-plus-mod.toml"
+hash = "bdc2e0491ea6405ff20879b55125ae73fbd0e70f414469e4413b36b318b386a2"
+metafile = true
+
+[[files]]
 file = "mods/oh-how-the-crafting-has-tabled.toml"
 hash = "ea091173e0b6eb5943de947fcae7965236ea3f00badb10a258644abbb9897652"
 metafile = true
@@ -213,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/painting-cycle.toml"
 hash = "021b5e795511472c5bce8a390c0776cef5e8d226806fc4a1efaa3aa34d626b7f"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.toml"
+hash = "11f70fa552115472c41f991c41d2c1a7978d3ee94bb6bc51fe783108039e07e5"
 metafile = true
 
 [[files]]
