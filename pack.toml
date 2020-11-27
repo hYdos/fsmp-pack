@@ -3,7 +3,7 @@ name = "FabricSMP"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "294e42aa2131d113ce30054b6b1ee6fbefa85fb8611ddab3ed0e84b2a2d96739"
+hash = "929eadb8229e61abf443eec10934eb3930612e76ed289548d6bfc0cd1d9cb97e"
 
 [versions]
 fabric = "0.10.8"

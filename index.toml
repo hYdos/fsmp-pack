@@ -176,11 +176,6 @@ hash = "241826058e4a7b43389db657a8ccc0b703912a60bfe1cdf579b37e669d88aa10"
 metafile = true
 
 [[files]]
-file = "mods/lil-tater-reloaded.toml"
-hash = "f5a33fd31f1a870366f91b5f621017751288d8dc92eba4849e09478b99f87bcc"
-metafile = true
-
-[[files]]
 file = "mods/linkart-fabric.toml"
 hash = "263e973f331db97547e41502859d2c53241ebaebe65c63dceafe5bc8e4084fe2"
 metafile = true
