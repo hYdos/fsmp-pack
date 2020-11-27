@@ -301,8 +301,18 @@ hash = "2abd06b0de1059913175e4a23cdac5b5dffe3e515b50644c4239d2d0be17ec93"
 metafile = true
 
 [[files]]
+file = "mods/sit-fabric.toml"
+hash = "2266d8b74b106d01e323c1b609435f9e1fa45fa04fd0abc51890861b1e9b7882"
+metafile = true
+
+[[files]]
 file = "mods/skin-swapper.toml"
 hash = "55203cde738f884c24a7c2d1e51afe7fe56e791011d7caf580f8ff2d6600b0b3"
+metafile = true
+
+[[files]]
+file = "mods/telekinesis-enchantment.toml"
+hash = "4ebdecaba974b9849a2c913d7a72bdfd9416c211ab7795b67069fe2b8d2c6be2"
 metafile = true
 
 [[files]]
