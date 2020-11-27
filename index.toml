@@ -31,6 +31,11 @@ hash = "7380963201148fbb6670a5bab608ae1b26a2163b9e03cd78f4e148157a318024"
 metafile = true
 
 [[files]]
+file = "mods/brute-imitation.toml"
+hash = "e3a0390708a5965a643bd08d2470efb0208b6ec5ed8a338aeebfb07edc283e1f"
+metafile = true
+
+[[files]]
 file = "mods/campanion.toml"
 hash = "a89d9f37b956583a617f70772ce90949827a21b2b5eed4efea7a82fcdee5efbe"
 metafile = true
@@ -53,6 +58,21 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.toml"
 hash = "03890d2584eb09c24cd65910a43c9c9c366fdc07de10512259ace8d9a19a6862"
+metafile = true
+
+[[files]]
+file = "mods/colorful-columns.toml"
+hash = "c0feb92c470fc8af3fabf5944dae411a661e46fda1691528bb04bd6bc13cadea"
+metafile = true
+
+[[files]]
+file = "mods/colorful-cut.toml"
+hash = "ab9ac8882cc30d801607e7932d76435c3a056524b15a5ffbff8d151e80b90bcd"
+metafile = true
+
+[[files]]
+file = "mods/columns.toml"
+hash = "d6070f559be29860457b9dc8014ba1431a36e72fe5c570009a57dcd550fe4828"
 metafile = true
 
 [[files]]
@@ -146,6 +166,11 @@ hash = "263e973f331db97547e41502859d2c53241ebaebe65c63dceafe5bc8e4084fe2"
 metafile = true
 
 [[files]]
+file = "mods/lootstrap.toml"
+hash = "a6c78eb882e589e518e96263ea516944c12617f3d0dae1065ddc9d331f23ebe0"
+metafile = true
+
+[[files]]
 file = "mods/malilib.toml"
 hash = "65f39ab7f5b51614436d1986a9f7defc76c467d957043aa23ce59c98e4de0006"
 metafile = true
@@ -158,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/mo-structures.toml"
 hash = "343f4ed11794c894eceeb8526c061997d5452cbaa255a56d72a2174c99e0fa4b"
+metafile = true
+
+[[files]]
+file = "mods/mod-credits.toml"
+hash = "4aff09524a01c2c86c0e312410128492e0c18f472d4979318148e4fb922e6170"
 metafile = true
 
 [[files]]
@@ -181,6 +211,11 @@ hash = "ea091173e0b6eb5943de947fcae7965236ea3f00badb10a258644abbb9897652"
 metafile = true
 
 [[files]]
+file = "mods/painting-cycle.toml"
+hash = "021b5e795511472c5bce8a390c0776cef5e8d226806fc4a1efaa3aa34d626b7f"
+metafile = true
+
+[[files]]
 file = "mods/pet-owner.toml"
 hash = "ffa198708ca99d13a5d0814cf6ad3c3dce18e5243ec0fba4c45ef0a4ca01da0f"
 metafile = true
@@ -188,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.toml"
 hash = "e093411e2372acb0c772b4b8716b1a193343bebdfcd2fdb818fef9815f3b2a11"
+metafile = true
+
+[[files]]
+file = "mods/pling.toml"
+hash = "71f8ace491a1b476d16802ccebc8e0399b1c892d9a33ff80deb549444d8e6f30"
 metafile = true
 
 [[files]]
