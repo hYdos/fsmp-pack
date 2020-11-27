@@ -1,0 +1,14 @@
+name = "Pet Owner"
+filename = "PetOwner-1.7.0-1.16.2+.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3060/692/PetOwner-1.7.0-1.16.2+.jar"
+hash-format = "murmur2"
+hash = "2667222292"
+
+[update]
+[update.curseforge]
+file-id = 3060692
+project-id = 401859
+release-channel = "beta"

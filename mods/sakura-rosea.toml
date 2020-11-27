@@ -1,0 +1,14 @@
+name = "Sakura Rosea"
+filename = "SakuraRosea-1.5.10-MC1.16.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3099/887/SakuraRosea-1.5.10-MC1.16.3-fabric.jar"
+hash-format = "murmur2"
+hash = "624814482"
+
+[update]
+[update.curseforge]
+file-id = 3099887
+project-id = 391379
+release-channel = "beta"

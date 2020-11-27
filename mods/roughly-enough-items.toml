@@ -1,0 +1,14 @@
+name = "Roughly Enough Items (REI)"
+filename = "RoughlyEnoughItems-5.8.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3116/639/RoughlyEnoughItems-5.8.7.jar"
+hash-format = "murmur2"
+hash = "1259553998"
+
+[update]
+[update.curseforge]
+file-id = 3116639
+project-id = 310111
+release-channel = "beta"

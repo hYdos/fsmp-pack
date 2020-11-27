@@ -1,0 +1,14 @@
+name = "Oh, How the Crafting Has Tabled!"
+filename = "more_crafting_tables_v0.1.3_1.16.x.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3057/421/more_crafting_tables_v0.1.3_1.16.x.jar"
+hash-format = "murmur2"
+hash = "1069123825"
+
+[update]
+[update.curseforge]
+file-id = 3057421
+project-id = 398079
+release-channel = "beta"

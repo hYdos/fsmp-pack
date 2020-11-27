@@ -1,0 +1,14 @@
+name = "Portal Tags"
+filename = "portaltags-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3062/253/portaltags-2.1.0.jar"
+hash-format = "murmur2"
+hash = "1555707179"
+
+[update]
+[update.curseforge]
+file-id = 3062253
+project-id = 399075
+release-channel = "beta"

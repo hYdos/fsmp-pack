@@ -1,0 +1,14 @@
+name = "microDurability"
+filename = "microDurability-0.2.1+1.16.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3120/646/microDurability-0.2.1+1.16.3.jar"
+hash-format = "murmur2"
+hash = "1642155653"
+
+[update]
+[update.curseforge]
+file-id = 3120646
+project-id = 409222
+release-channel = "beta"
