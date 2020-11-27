@@ -1,0 +1,14 @@
+name = "Player Roles (Fabric)"
+filename = "player-roles-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3101/966/player-roles-1.1.2.jar"
+hash-format = "murmur2"
+hash = "25896013"
+
+[update]
+[update.curseforge]
+file-id = 3101966
+project-id = 394363
+release-channel = "beta"

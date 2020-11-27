@@ -51,6 +51,11 @@ hash = "b4b12b57095c2bdb87c8ed4fbf1e48f7720518f79ce417d010b0f1f3cb6dcb47"
 metafile = true
 
 [[files]]
+file = "mods/cha-s.toml"
+hash = "f9a281274224bf89823235d3a77e8fe27724cdb59acf8e994791f2b2e6156876"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.toml"
 hash = "eb75573790f61ad86f89deb084fee4153b4bfa03850af15b10a0ba1d0a6b48ea"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/columns.toml"
 hash = "d6070f559be29860457b9dc8014ba1431a36e72fe5c570009a57dcd550fe4828"
+metafile = true
+
+[[files]]
+file = "mods/dont-clear-chat-history.toml"
+hash = "1d63113a94ae5dc6f2bca43e879bb8dfb95eafe6503b73cf2482ab294b2c48f0"
 metafile = true
 
 [[files]]
@@ -256,6 +266,11 @@ hash = "e093411e2372acb0c772b4b8716b1a193343bebdfcd2fdb818fef9815f3b2a11"
 metafile = true
 
 [[files]]
+file = "mods/player-roles-fabric.toml"
+hash = "2564d69a6552c67c91671230c5fa6c55ce89050cf2fc08013295b99fa50ae5de"
+metafile = true
+
+[[files]]
 file = "mods/pling.toml"
 hash = "71f8ace491a1b476d16802ccebc8e0399b1c892d9a33ff80deb549444d8e6f30"
 metafile = true
@@ -286,6 +301,11 @@ hash = "2abd06b0de1059913175e4a23cdac5b5dffe3e515b50644c4239d2d0be17ec93"
 metafile = true
 
 [[files]]
+file = "mods/skin-swapper.toml"
+hash = "55203cde738f884c24a7c2d1e51afe7fe56e791011d7caf580f8ff2d6600b0b3"
+metafile = true
+
+[[files]]
 file = "mods/terrestria.toml"
 hash = "1d93f193bb2e98c3a45453a91faf13b83246dc54e0ae06007643a5486f00553b"
 metafile = true
@@ -298,4 +318,14 @@ metafile = true
 [[files]]
 file = "mods/traverse.toml"
 hash = "6a3887f592f48167bf4067125b492fc12b214a771aacaa233610d027eb220d5e"
+metafile = true
+
+[[files]]
+file = "mods/unlimited-dragon-eggs-fabric.toml"
+hash = "bb0d3af588b10b7a0f4d35f244e4fe3a4ccadf6a5b282266322dcbb879642bc2"
+metafile = true
+
+[[files]]
+file = "mods/villagerfix.toml"
+hash = "29b67cd462720c186a7c0e3a7fad18af30acaa032ea77a5fd73de16901ff6dac"
 metafile = true

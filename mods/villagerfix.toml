@@ -1,0 +1,14 @@
+name = "VillagerFix"
+filename = "villagerfix-1.4.1+1.16.2-1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3102/459/villagerfix-1.4.1+1.16.2-1.16.4.jar"
+hash-format = "murmur2"
+hash = "341719600"
+
+[update]
+[update.curseforge]
+file-id = 3102459
+project-id = 400741
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Unlimited Dragon Eggs (Fabric)"
+filename = "unlimiteddragoneggs-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3011/645/unlimiteddragoneggs-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1447393169"
+
+[update]
+[update.curseforge]
+file-id = 3011645
+project-id = 397278
+release-channel = "beta"

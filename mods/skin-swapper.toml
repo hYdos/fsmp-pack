@@ -1,0 +1,14 @@
+name = "Skin Swapper"
+filename = "Skin_Swapper_1.16.3-2.0.1 .jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3064/138/Skin_Swapper_1.16.3-2.0.1 .jar"
+hash-format = "murmur2"
+hash = "862747484"
+
+[update]
+[update.curseforge]
+file-id = 3064138
+project-id = 358486
+release-channel = "beta"
