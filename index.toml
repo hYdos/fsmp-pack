@@ -171,11 +171,6 @@ hash = "f03f990f76f7f1fa955298d3b38a5b9b50099686e29a1a93480515289a7764f6"
 metafile = true
 
 [[files]]
-file = "mods/ignis-fatuus.toml"
-hash = "2fdeeb4b373d6bf278aff1a8609a33f4f7c2ae350a966eeaa434034efcebf4ec"
-metafile = true
-
-[[files]]
 file = "mods/improved-stations.toml"
 hash = "07ac50827f79f963da74e9caf60c0431f00255b96f315804a444b347e5f851d5"
 metafile = true
