@@ -106,6 +106,11 @@ hash = "4f689b450be11c0b9bf86d1f46b273eb57f08d19a22579a426d16d8364a706b4"
 metafile = true
 
 [[files]]
+file = "mods/experimentaway.toml"
+hash = "ecdb400b244e5e24179fba10aa8df220351556b4f0a64b5443a03d0ae80bd522"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "b901e5c8264af78d27a7a96a2123a9404e26cf54badcc7c62006d130db50dcaf"
 metafile = true
@@ -163,11 +168,6 @@ metafile = true
 [[files]]
 file = "mods/grind-enchantments.toml"
 hash = "44761d96cd571b878060b2bfdc86643ce6ad9f855fda3cabd40e3578e17853b9"
-metafile = true
-
-[[files]]
-file = "mods/hypnos.toml"
-hash = "f03f990f76f7f1fa955298d3b38a5b9b50099686e29a1a93480515289a7764f6"
 metafile = true
 
 [[files]]
@@ -251,11 +251,6 @@ hash = "e093411e2372acb0c772b4b8716b1a193343bebdfcd2fdb818fef9815f3b2a11"
 metafile = true
 
 [[files]]
-file = "mods/player-roles-fabric.toml"
-hash = "2564d69a6552c67c91671230c5fa6c55ce89050cf2fc08013295b99fa50ae5de"
-metafile = true
-
-[[files]]
 file = "mods/pling.toml"
 hash = "71f8ace491a1b476d16802ccebc8e0399b1c892d9a33ff80deb549444d8e6f30"
 metafile = true
@@ -268,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/portal-tags.toml"
 hash = "0705422d0338c3f079d2c958e0feb46be71c9129176ee462954f7c8e32e82a1e"
+metafile = true
+
+[[files]]
+file = "mods/queerbrics.toml"
+hash = "db1c5713fadd0a7923df3580f08e3bfd29cb3a6290cd6de1a846bff302876061"
 metafile = true
 
 [[files]]
@@ -288,11 +288,6 @@ metafile = true
 [[files]]
 file = "mods/sit-fabric.toml"
 hash = "2266d8b74b106d01e323c1b609435f9e1fa45fa04fd0abc51890861b1e9b7882"
-metafile = true
-
-[[files]]
-file = "mods/skin-swapper.toml"
-hash = "55203cde738f884c24a7c2d1e51afe7fe56e791011d7caf580f8ff2d6600b0b3"
 metafile = true
 
 [[files]]

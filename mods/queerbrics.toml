@@ -1,0 +1,8 @@
+name = "Queerbrics"
+filename = "queerbrics-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/781989698666496051/782604190362238986/queerbrics-0.1.0.jar"
+hash-format = "sha256"
+hash = "6b0334394067c7f14fe6874f7e82d6ecec3546206c02050dee96d76aa378e3ba"
