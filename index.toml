@@ -106,11 +106,6 @@ hash = "4f689b450be11c0b9bf86d1f46b273eb57f08d19a22579a426d16d8364a706b4"
 metafile = true
 
 [[files]]
-file = "mods/experimentaway.toml"
-hash = "ecdb400b244e5e24179fba10aa8df220351556b4f0a64b5443a03d0ae80bd522"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.toml"
 hash = "b901e5c8264af78d27a7a96a2123a9404e26cf54badcc7c62006d130db50dcaf"
 metafile = true
