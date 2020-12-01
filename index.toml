@@ -286,6 +286,11 @@ hash = "2266d8b74b106d01e323c1b609435f9e1fa45fa04fd0abc51890861b1e9b7882"
 metafile = true
 
 [[files]]
+file = "mods/spawn-lanterns.toml"
+hash = "803a4ac6925b91dd269725782d0bae920fb72f3d74fdd5f273778c2ae5929457"
+metafile = true
+
+[[files]]
 file = "mods/telekinesis-enchantment.toml"
 hash = "4ebdecaba974b9849a2c913d7a72bdfd9416c211ab7795b67069fe2b8d2c6be2"
 metafile = true
