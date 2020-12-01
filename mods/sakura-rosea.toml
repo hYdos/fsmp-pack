@@ -1,14 +1,8 @@
 name = "Sakura Rosea"
-filename = "SakuraRosea-1.5.10-MC1.16.3-fabric.jar"
+filename = "SakuraRosea-1.6.0-MC1.16.3-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3099/887/SakuraRosea-1.5.10-MC1.16.3-fabric.jar"
-hash-format = "murmur2"
-hash = "624814482"
-
-[update]
-[update.curseforge]
-file-id = 3099887
-project-id = 391379
-release-channel = "beta"
+url = "https://cdn.discordapp.com/attachments/781989698666496051/783380254634410036/SakuraRosea-1.6.0-MC1.16.3-fabric.jar"
+hash-format = "sha256"
+hash = "d1701e68aa6a6406481c691faf2d632f81e2b0dd9dabe5cd0e9c03f90c5578b9"

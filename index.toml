@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/sakura-rosea.toml"
-hash = "2abd06b0de1059913175e4a23cdac5b5dffe3e515b50644c4239d2d0be17ec93"
+hash = "0f7eed21cae0d5ab4869c7dcdb48074a562ca00068ec3aed778058784921f0ab"
 metafile = true
 
 [[files]]
