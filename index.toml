@@ -21,6 +21,11 @@ hash = "95ced31ab65cc2fa7a2a8ffd3fb1d4d8818cb1aeb2a7a2646a6ad1ba86f5b4bf"
 metafile = true
 
 [[files]]
+file = "mods/betterend.toml"
+hash = "f87b3d8907c9d650711db43c8333176c5e762020ea1bbad2a7c825e9c3216cf4"
+metafile = true
+
+[[files]]
 file = "mods/betternether.toml"
 hash = "352bf4645385fcc4fda25008d3ffd3d14bd8ab5843374ad3181163cdfb19aae2"
 metafile = true
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/portal-tags.toml"
 hash = "0705422d0338c3f079d2c958e0feb46be71c9129176ee462954f7c8e32e82a1e"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.toml"
+hash = "442c89f8c5027bbfe31b964422092142b064c2cc453996d835c73eff56118e4d"
 metafile = true
 
 [[files]]
