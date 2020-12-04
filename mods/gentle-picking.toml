@@ -1,14 +1,14 @@
 name = "Gentle Picking"
-filename = "gentle-picking-1.0.0.jar"
+filename = "gentle-picking-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3122/760/gentle-picking-1.0.0.jar"
+url = "https://edge-service.overwolf.wtf/files/3130/716/gentle-picking-1.0.1.jar"
 hash-format = "murmur2"
-hash = "1059441491"
+hash = "4013161903"
 
 [update]
 [update.curseforge]
-file-id = 3122760
+file-id = 3130716
 project-id = 422476
 release-channel = "beta"
