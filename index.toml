@@ -56,11 +56,6 @@ hash = "b4b12b57095c2bdb87c8ed4fbf1e48f7720518f79ce417d010b0f1f3cb6dcb47"
 metafile = true
 
 [[files]]
-file = "mods/cha-s.toml"
-hash = "eecd902d05ce93c55c65a2859073ab9561f57a71a1307670d1649eee8efdc157"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.toml"
 hash = "eb75573790f61ad86f89deb084fee4153b4bfa03850af15b10a0ba1d0a6b48ea"
 metafile = true
