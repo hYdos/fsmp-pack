@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/eldritch-mobs.toml"
-hash = "ce853d41446d5914b22c32a2929d098197c412aa16ab7cdb4b12a166ac53224f"
+hash = "711e4e295e4ca60088c993ce63defd654b467632e01049937057ac7b9dd709ef"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "9537e37078912c8f21434548f97ed32780294e7c566774ea1a95ded91bf4b659"
+hash = "b8de7fdf5ac176fada1b7760ecc959a4b63eba01e516c109e179be1aceb3f46d"
 metafile = true
 
 [[files]]
