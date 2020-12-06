@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/cha-s.toml"
-hash = "f9a281274224bf89823235d3a77e8fe27724cdb59acf8e994791f2b2e6156876"
+hash = "eecd902d05ce93c55c65a2859073ab9561f57a71a1307670d1649eee8efdc157"
 metafile = true
 
 [[files]]

@@ -7,8 +7,8 @@ url = "https://edge.forgecdn.net/files/3000/643/CHAS-1.16-1.3-Fabric.jar"
 hash-format = "murmur2"
 hash = "60391003"
 
-[update]
-[update.curseforge]
-file-id = 3000643
-project-id = 224841
-release-channel = "beta"
+#[update]
+#[update.curseforge]
+#file-id = 3000643
+#project-id = 224841
+#release-channel = "beta"
