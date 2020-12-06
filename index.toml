@@ -161,6 +161,11 @@ hash = "903c488f250ef54a817136ab668353e9f28d7b96501239e531fb1b9177c2ff3a"
 metafile = true
 
 [[files]]
+file = "mods/gilded-netherite.toml"
+hash = "ce010eb4e26189696243ec4f3b69eaf468fb05cb11b7ef1860765dd29900311c"
+metafile = true
+
+[[files]]
 file = "mods/gravestones.toml"
 hash = "ad24b536555b4d1c9a2b18e9aebc702a98480b81a7ca494f72ce4c6aa6f27901"
 metafile = true
@@ -287,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/sakura-rosea.toml"
-hash = "0f7eed21cae0d5ab4869c7dcdb48074a562ca00068ec3aed778058784921f0ab"
+hash = "ebeea2cc01c29d6cc516acf91e4dfb4f4eff8838831d88b7c26ffcf399a48afb"
 metafile = true
 
 [[files]]
