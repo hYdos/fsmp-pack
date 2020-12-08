@@ -334,3 +334,8 @@ metafile = true
 file = "mods/villagerfix.toml"
 hash = "29b67cd462720c186a7c0e3a7fad18af30acaa032ea77a5fd73de16901ff6dac"
 metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves-fabric.toml"
+hash = "35df9fea862e2443aa5f444ecfe28aa82ae5b8dd94aa05318f0fce130ab9b1a4"
+metafile = true
