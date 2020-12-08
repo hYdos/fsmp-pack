@@ -151,6 +151,11 @@ hash = "5c66551c0389b54d61163190c35c1d5636cc64ca0cc55a5dbd5b2dedde91ff1d"
 metafile = true
 
 [[files]]
+file = "mods/get-off-my-lawn.toml"
+hash = "53df8192f638416444232681d8ba2bd76d539808c3a2ab8827d21788d04648d5"
+metafile = true
+
+[[files]]
 file = "mods/gilded-netherite.toml"
 hash = "ce010eb4e26189696243ec4f3b69eaf468fb05cb11b7ef1860765dd29900311c"
 metafile = true
