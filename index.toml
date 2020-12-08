@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternether.toml"
-hash = "352bf4645385fcc4fda25008d3ffd3d14bd8ab5843374ad3181163cdfb19aae2"
+hash = "ccf49b2c08ac4ca50631aca1dfd7ad23d86ddeef1988ea0574d462042a1b5f5a"
 metafile = true
 
 [[files]]
@@ -96,11 +96,6 @@ hash = "82e80659aa91ab2008521ba480cfa7fb2bac1855e2a6e05c48bfb69b5d84183e"
 metafile = true
 
 [[files]]
-file = "mods/eldritch-mobs.toml"
-hash = "711e4e295e4ca60088c993ce63defd654b467632e01049937057ac7b9dd709ef"
-metafile = true
-
-[[files]]
 file = "mods/expanded-concrete.toml"
 hash = "4f689b450be11c0b9bf86d1f46b273eb57f08d19a22579a426d16d8364a706b4"
 metafile = true
@@ -152,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/gentle-picking.toml"
-hash = "903c488f250ef54a817136ab668353e9f28d7b96501239e531fb1b9177c2ff3a"
+hash = "5c66551c0389b54d61163190c35c1d5636cc64ca0cc55a5dbd5b2dedde91ff1d"
 metafile = true
 
 [[files]]
