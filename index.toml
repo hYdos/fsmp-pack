@@ -271,11 +271,6 @@ hash = "442c89f8c5027bbfe31b964422092142b064c2cc453996d835c73eff56118e4d"
 metafile = true
 
 [[files]]
-file = "mods/queerbrics.toml"
-hash = "db1c5713fadd0a7923df3580f08e3bfd29cb3a6290cd6de1a846bff302876061"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures-fabric.toml"
 hash = "216c71fa5623deec1fcf9935e86e53d3ae9f188f14bed1a06f725e58c036f315"
 metafile = true
