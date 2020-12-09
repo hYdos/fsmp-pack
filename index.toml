@@ -96,6 +96,11 @@ hash = "82e80659aa91ab2008521ba480cfa7fb2bac1855e2a6e05c48bfb69b5d84183e"
 metafile = true
 
 [[files]]
+file = "mods/eldritch-mobs.toml"
+hash = "29376d086cf8270a8e8989ec4be83e616ad4666e86874baf6470d8d99fbf0551"
+metafile = true
+
+[[files]]
 file = "mods/expanded-concrete.toml"
 hash = "4f689b450be11c0b9bf86d1f46b273eb57f08d19a22579a426d16d8364a706b4"
 metafile = true
@@ -268,11 +273,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.toml"
 hash = "442c89f8c5027bbfe31b964422092142b064c2cc453996d835c73eff56118e4d"
-metafile = true
-
-[[files]]
-file = "mods/queerbrics.toml"
-hash = "db1c5713fadd0a7923df3580f08e3bfd29cb3a6290cd6de1a846bff302876061"
 metafile = true
 
 [[files]]
