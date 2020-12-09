@@ -291,6 +291,11 @@ hash = "ebeea2cc01c29d6cc516acf91e4dfb4f4eff8838831d88b7c26ffcf399a48afb"
 metafile = true
 
 [[files]]
+file = "mods/simplex-terrain-generation.toml"
+hash = "fbb160bf1503dfec3b0d9577acaaa66cdbbc1ec8f0c1a45b2b1267cafaec42d3"
+metafile = true
+
+[[files]]
 file = "mods/sit-fabric.toml"
 hash = "2266d8b74b106d01e323c1b609435f9e1fa45fa04fd0abc51890861b1e9b7882"
 metafile = true
