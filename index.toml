@@ -306,6 +306,11 @@ hash = "634c4e06d9f8dbb3e75a2edd041c548d872ef668e86cdc3a1b26735bea3cd7c5"
 metafile = true
 
 [[files]]
+file = "mods/slimefinder-fabric.toml"
+hash = "e5db35c72b7bec36c5f0800f8e1aeda71c348cd102b74c9c312387dc8b0c00a8"
+metafile = true
+
+[[files]]
 file = "mods/spawn-lanterns.toml"
 hash = "803a4ac6925b91dd269725782d0bae920fb72f3d74fdd5f273778c2ae5929457"
 metafile = true
