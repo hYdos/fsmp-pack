@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/campanion.toml"
-hash = "a89d9f37b956583a617f70772ce90949827a21b2b5eed4efea7a82fcdee5efbe"
+hash = "038f335eea5a84d6b186ed03b864d575118c5b92f149540bd22091e319cdbf98"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestones.toml"
-hash = "ad24b536555b4d1c9a2b18e9aebc702a98480b81a7ca494f72ce4c6aa6f27901"
+hash = "178e3cc8ad7cd2f38fcd9af372cf2d89b96eecccfd8f7a286d2335f9ac58c8e4"
 metafile = true
 
 [[files]]
