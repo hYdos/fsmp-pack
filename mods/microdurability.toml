@@ -1,14 +1,14 @@
 name = "microDurability"
-filename = "microDurability-0.2.1+1.16.3.jar"
-side = "both"
+filename = "microDurability-0.3.0+1.16.3.jar"
+side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3120/646/microDurability-0.2.1+1.16.3.jar"
+url = "https://edge.forgecdn.net/files/3136/865/microDurability-0.3.0+1.16.3.jar"
 hash-format = "murmur2"
-hash = "1642155653"
+hash = "2580196803"
 
 [update]
 [update.curseforge]
-file-id = 3120646
+file-id = 3136865
 project-id = 409222
 release-channel = "beta"

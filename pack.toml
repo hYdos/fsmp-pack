@@ -1,19 +1,10 @@
 name = "FabricSMP"
-author = ""
-version = ""
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7a0684b82826dcfb2b619a2363ea4a14fd3e75acfc7c69b9019822727804917f"
+hash = "66c93b0bb05b79867f7a3bfbe41f21f72ce17bef343bc372026cb77d2444794d"
 
 [versions]
 fabric = "0.10.8"
 minecraft = "1.16.4"
-
-[export]
-[export.curseforge]
-disable-jumploader = false
-jumploader-forge-version = "35.1.10"
-jumploader-version-id = 3103389
-project-id = 0

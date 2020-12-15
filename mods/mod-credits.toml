@@ -1,6 +1,6 @@
 name = "Mod Credits"
 filename = "modcredits-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3061/438/modcredits-1.0.0.jar"

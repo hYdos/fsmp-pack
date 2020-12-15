@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.toml"
-hash = "f87b3d8907c9d650711db43c8333176c5e762020ea1bbad2a7c825e9c3216cf4"
+hash = "d3a9b4112dedb74223c59d04328b0a6e4ba5efe9e05713625ab55db9538da094"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.toml"
-hash = "7380963201148fbb6670a5bab608ae1b26a2163b9e03cd78f4e148157a318024"
+hash = "7143c85a02c46a0a3aa32b9689cbdd0f506598f63a990950e4b38b3d789607eb"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/campanion.toml"
-hash = "038f335eea5a84d6b186ed03b864d575118c5b92f149540bd22091e319cdbf98"
+hash = "88745ac7b0b718ce5eaf95b93169e9f9e92ab1f57e97c1e21cda0e8c1f904d0a"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.toml"
-hash = "eb75573790f61ad86f89deb084fee4153b4bfa03850af15b10a0ba1d0a6b48ea"
+hash = "1bfc18aa26016794143abf227dd08fa1fc8631e9e83487053130a6c8dad81c2f"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-sound-filters.toml"
-hash = "cca01de090a0c44be5c4d0ad1773b226c1f435a60891a9ccae1777e41f71c4c5"
+hash = "1f666bf99fbd1083465e92cb5bd8ba42f5185f874d8336e7f4e71e76abc6629b"
 metafile = true
 
 [[files]]
@@ -107,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "362bf5ca6ce5647e84c800a77895da864fc46d4f0a5cb37c667a267cab161ff0"
+hash = "4bf966f23a0b7a3554fedb4dac3073cf0ab0006bab1e6167d5b0bbe4ca464039"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "a3dc5e4111a18214315645b023b4477d8548516223faf5c639f90348cb199614"
+hash = "6adaefc0a811c66067210409334dee17f2e68320878e785854d85d9985fb6c4f"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/frying-pan.toml"
-hash = "394ab9a6f78dfd6652dde40c51d8b0cfc770fb6b973e5ed331a70b693d593dc8"
+hash = "79213e1b1fb29b224150320318f1c9e20db906bb6997063468ebe802a3979e81"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.toml"
-hash = "241826058e4a7b43389db657a8ccc0b703912a60bfe1cdf579b37e669d88aa10"
+hash = "8347673a78f5d2899e5a3a67111e5eda2d0a101627b3888f723f84c778ca8e02"
 metafile = true
 
 [[files]]
@@ -192,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "65f39ab7f5b51614436d1986a9f7defc76c467d957043aa23ce59c98e4de0006"
+hash = "4663ae165a1c4d5c17bbc7d26bccb60cf4ad81a9a73f580a9dcae398b78a7f6e"
 metafile = true
 
 [[files]]
 file = "mods/microdurability.toml"
-hash = "7bab67186b03d1a1d89c870c4eecb9569ac042636ee4da91744aead955c95a4e"
+hash = "58cc5f2953cd5016626f9b43aff930e1d94c130a8087372f04230813d9d4da87"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/mod-credits.toml"
-hash = "4aff09524a01c2c86c0e312410128492e0c18f472d4979318148e4fb922e6170"
+hash = "2a6f7678eb7469ec45d2375295196a8d6c651d4b433a8e2fbfe375e92dba8844"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "02d6dd2d5938dddc1fc84fb28cdabec9c16e4e21fe16e629e9779ed725a15594"
+hash = "54bfe5b847ffd3a04f9d56f7faa5d95396bcec65e254900fee72b0bf135af32c"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/pling.toml"
-hash = "71f8ace491a1b476d16802ccebc8e0399b1c892d9a33ff80deb549444d8e6f30"
+hash = "bd0751c3b8e20782de25a0f46b3d2b113e2a1a027c11cc9cb57bedf97c35c5b2"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "b8de7fdf5ac176fada1b7760ecc959a4b63eba01e516c109e179be1aceb3f46d"
+hash = "3aeca0fb8b80e14393507f9ace3097da1039ca2a3d8d4590e92ee1082eaa4f1d"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/tis-3d.toml"
-hash = "cc8856de87fe4a2a09793c9b5263f695dc58ea4687e8d8ddcc67c69e2dd7984d"
+hash = "5b05dbb2a1118a3bced5b88d490ad1532e392cfedb7825e4f6763aef1cd3ec82"
 metafile = true
 
 [[files]]
