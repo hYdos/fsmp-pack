@@ -1,6 +1,6 @@
 name = "Chat Heads"
 filename = "chat_heads-0.2.1+1.16.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3114/278/chat_heads-0.2.1+1.16.2.jar"
