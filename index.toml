@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/get-off-my-lawn.toml"
-hash = "53df8192f638416444232681d8ba2bd76d539808c3a2ab8827d21788d04648d5"
+hash = "8c46f0c6351ecb48ee3402fdf99827ba3f789d4a74d0088f544b59317685d509"
 metafile = true
 
 [[files]]
