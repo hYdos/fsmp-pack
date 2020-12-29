@@ -126,6 +126,11 @@ hash = "099ec1985f26f8e1403e2f2a526e600de812b8e7f4265e47bbb24ce5a43c3761"
 metafile = true
 
 [[files]]
+file = "mods/eldritch-mobs.toml"
+hash = "dfdc212df72f0e9f1c899b1ef182af7da127c0f03ada45521a7f692ea803fd31"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.toml"
 hash = "10197dfff619bb551c0ec13780fe25daeec0bc2ecf71093a6c3d4306a3a0c784"
 metafile = true
@@ -343,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/spawn-lanterns.toml"
 hash = "803a4ac6925b91dd269725782d0bae920fb72f3d74fdd5f273778c2ae5929457"
+metafile = true
+
+[[files]]
+file = "mods/supernatural-crops.toml"
+hash = "54e9d80be3940a5758fbc87b44082277810ab55ac8ba4fc9cbda18d166c9bd79"
 metafile = true
 
 [[files]]
