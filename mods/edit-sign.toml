@@ -1,0 +1,14 @@
+name = "Edit Sign"
+filename = "EditSign-Fabric-1.16.4-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3149/359/EditSign-Fabric-1.16.4-2.1.4.jar"
+hash-format = "murmur2"
+hash = "1573193970"
+
+[update]
+[update.curseforge]
+file-id = 3149359
+project-id = 344996
+release-channel = "beta"

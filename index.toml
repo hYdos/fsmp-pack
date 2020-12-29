@@ -1,2 +1,61 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/adorn.toml"
+hash = "23327d7d06c4a7193c739648c88937552b6f8c05e397136ecdb2372908be0a85"
+metafile = true
+
+[[files]]
+file = "mods/better-enchanted-books.toml"
+hash = "95ced31ab65cc2fa7a2a8ffd3fb1d4d8818cb1aeb2a7a2646a6ad1ba86f5b4bf"
+metafile = true
+
+[[files]]
+file = "mods/brute-imitation.toml"
+hash = "e3a0390708a5965a643bd08d2470efb0208b6ec5ed8a338aeebfb07edc283e1f"
+metafile = true
+
+[[files]]
+file = "mods/carpet.toml"
+hash = "a12d626535dc7b0f263c6201ca571d0f8d9c9e7a955ebd0fe9e10d10da706b2d"
+metafile = true
+
+[[files]]
+file = "mods/celib.toml"
+hash = "1de50cc401bedc614b55ed6417e167994b16b1a308aae84b7272aaa30f8c0aba"
+metafile = true
+
+[[files]]
+file = "mods/christmas-spirit-rewoven.toml"
+hash = "906155f29e5949aa33fab9f6396f66a56acef8c353c419b192a736f945f960a3"
+metafile = true
+
+[[files]]
+file = "mods/columns.toml"
+hash = "d6070f559be29860457b9dc8014ba1431a36e72fe5c570009a57dcd550fe4828"
+metafile = true
+
+[[files]]
+file = "mods/edit-sign.toml"
+hash = "099ec1985f26f8e1403e2f2a526e600de812b8e7f4265e47bbb24ce5a43c3761"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "5b8fba03d733b185c810350390b19623ac7f89bebc78bce96293cbdfd6f380ca"
+metafile = true
+
+[[files]]
+file = "mods/flamingo-oh-oh-oh.toml"
+hash = "61744ca4c522fe4cd311dc2f53b54e2c416c3b03f12b04d1cfd915978b8729a5"
+metafile = true
+
+[[files]]
+file = "mods/gentle-fawn.toml"
+hash = "39402cbd16de985174f80fbb03563f5e91b5ae3d3b8b9c2260a71fd555eabfb6"
+metafile = true
+
+[[files]]
+file = "mods/modern-glass-doors.toml"
+hash = "4cf748075ec8c5237d6818051ca76cdd5683c89fde7b4d59d968bce02fa78fc5"
+metafile = true

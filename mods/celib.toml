@@ -1,0 +1,14 @@
+name = "Celib"
+filename = "celib-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3143/537/celib-0.2.0.jar"
+hash-format = "murmur2"
+hash = "131111656"
+
+[update]
+[update.curseforge]
+file-id = 3143537
+project-id = 414232
+release-channel = "beta"
