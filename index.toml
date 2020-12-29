@@ -66,11 +66,6 @@ hash = "567e2daa9e822fa30023a197dfd8ac0db1e907c848a0dc0a9fc81c7b4df9527d"
 metafile = true
 
 [[files]]
-file = "mods/celib.toml"
-hash = "1de50cc401bedc614b55ed6417e167994b16b1a308aae84b7272aaa30f8c0aba"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.toml"
 hash = "eb75573790f61ad86f89deb084fee4153b4bfa03850af15b10a0ba1d0a6b48ea"
 metafile = true
@@ -303,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.toml"
 hash = "442c89f8c5027bbfe31b964422092142b064c2cc453996d835c73eff56118e4d"
-metafile = true
-
-[[files]]
-file = "mods/refabricated-slabs.toml"
-hash = "186ac1b471d4b3adc80040a1e920d7bdc62fc198a6fb1449edd07011a7ce9dd5"
 metafile = true
 
 [[files]]
