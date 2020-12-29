@@ -1,0 +1,14 @@
+name = "FabriKommander"
+filename = "FabriKommander-1.0.1-MC1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge-service.overwolf.wtf/files/3130/713/FabriKommander-1.0.1-MC1.16.4.jar"
+hash-format = "murmur2"
+hash = "1979582507"
+
+[update]
+[update.curseforge]
+file-id = 3130713
+project-id = 416117
+release-channel = "beta"

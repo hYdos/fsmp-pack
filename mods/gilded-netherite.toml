@@ -1,0 +1,14 @@
+name = "Gilded Netherite"
+filename = "Gilded-Netherite-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3130/403/Gilded-Netherite-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2668735989"
+
+[update]
+[update.curseforge]
+file-id = 3130403
+project-id = 409819
+release-channel = "beta"

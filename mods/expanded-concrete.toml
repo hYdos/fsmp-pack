@@ -1,0 +1,14 @@
+name = "Expanded Concrete"
+filename = "expanded-concrete-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3029/1/expanded-concrete-0.0.2.jar"
+hash-format = "murmur2"
+hash = "982029156"
+
+[update]
+[update.curseforge]
+file-id = 3029001
+project-id = 396044
+release-channel = "beta"

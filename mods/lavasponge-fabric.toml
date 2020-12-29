@@ -1,0 +1,14 @@
+name = "LavaSponge [Fabric]"
+filename = "lavasponge-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3139/296/lavasponge-1.0.1.jar"
+hash-format = "murmur2"
+hash = "3444362662"
+
+[update]
+[update.curseforge]
+file-id = 3139296
+project-id = 427299
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Fabric Tree Chopper"
+filename = "fabric-tree-chopper-0.6.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3149/738/fabric-tree-chopper-0.6.1.jar"
+hash-format = "murmur2"
+hash = "193918297"
+
+[update]
+[update.curseforge]
+file-id = 3149738
+project-id = 333854
+release-channel = "beta"

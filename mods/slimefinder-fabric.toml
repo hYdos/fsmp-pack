@@ -1,0 +1,14 @@
+name = "SlimeFinder (Fabric)"
+filename = "slimefinder-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3133/163/slimefinder-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3763674777"
+
+[update]
+[update.curseforge]
+file-id = 3133163
+project-id = 426547
+release-channel = "beta"

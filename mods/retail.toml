@@ -1,0 +1,8 @@
+name = "Retail"
+filename = "Retail-mc1.16-fabric-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UKYcEgM6/versions/0.1.0/Retail-mc1.16-fabric-0.1.0.jar"
+hash-format = "sha256"
+hash = "327b2f4d64d73df82c0da0f67828ddbfcfcd2b4cdac3565bbc4541bfa73caed9"

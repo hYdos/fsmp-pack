@@ -1,0 +1,14 @@
+name = "Bookshelving"
+filename = "more_bookshelves_v0.1.0_1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3138/66/more_bookshelves_v0.1.0_1.16.4.jar"
+hash-format = "murmur2"
+hash = "2538122949"
+
+[update]
+[update.curseforge]
+file-id = 3138066
+project-id = 407831
+release-channel = "beta"

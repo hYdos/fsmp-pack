@@ -1,0 +1,14 @@
+name = "Carve My Pumpkin"
+filename = "carve-my-pumpkin-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge-service.overwolf.wtf/files/3077/132/carve-my-pumpkin-1.0.3.jar"
+hash-format = "murmur2"
+hash = "717120348"
+
+[update]
+[update.curseforge]
+file-id = 3077132
+project-id = 411199
+release-channel = "beta"
