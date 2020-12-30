@@ -1,14 +1,14 @@
 name = "Supernatural Crops"
-filename = "supernatural-crops-1.0.2.jar"
+filename = "supernatural-crops-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3147/636/supernatural-crops-1.0.2.jar"
+url = "https://edge.forgecdn.net/files/3152/631/supernatural-crops-1.0.4.jar"
 hash-format = "murmur2"
-hash = "2284633639"
+hash = "418293098"
 
 [update]
 [update.curseforge]
-file-id = 3147636
+file-id = 3152631
 project-id = 430458
 release-channel = "beta"
