@@ -101,6 +101,11 @@ hash = "75d7c8a17338d50728b456dd603b89e18b32c27668191c331c9acb875c714627"
 metafile = true
 
 [[files]]
+file = "mods/css-potted-plant.toml"
+hash = "3063a4a77bdcb20b0964e8ad5401b4b305c425e7a848a7adcfb47c0609039eb9"
+metafile = true
+
+[[files]]
 file = "mods/discerning-furnace.toml"
 hash = "65e7459a3396af302573ac8054bfab5d7acb684c2c044eb662cf7ed3fde40390"
 metafile = true
