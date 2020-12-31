@@ -6,11 +6,6 @@ hash = "23327d7d06c4a7193c739648c88937552b6f8c05e397136ecdb2372908be0a85"
 metafile = true
 
 [[files]]
-file = "mods/atbyw.toml"
-hash = "49f14f81b0af8e0bdd0686e1f37a0a3d9d8bfc534ab2e087ef7ca247f609b6c0"
-metafile = true
-
-[[files]]
 file = "mods/bedspreads-fabric.toml"
 hash = "c85c950c882ad8f957926dc1f010f0b022a03a31b7390cd1adf79ce35ebd0747"
 metafile = true
