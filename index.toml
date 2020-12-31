@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/waddles.toml"
-hash = "112ab340741e7639b80584c6f315009176419cd839099e21384037025c203860"
+hash = "99dfdcfc11b340906dc9e78f94ddb0a6cae685e489a9f367070cd2c9217680ac"
 metafile = true
 
 [[files]]

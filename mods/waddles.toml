@@ -3,6 +3,6 @@ filename = "waddles-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/781578554357841994/793538941197352980/waddles-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/3ua8FdoB/versions/1.0.1/waddles-1.0.1.jar"
 hash-format = "sha256"
 hash = "c16c5e6d10454576945610eb8f3151a2538ac823f15c28c5504ec54cf059bf4c"
