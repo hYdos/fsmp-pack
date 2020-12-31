@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/supernatural-crops.toml"
-hash = "52377337f7ca9eebb5b0519b838f444d742c79145e1612d0c24c340e5d8915ee"
+hash = "e954ee0c2ada3ccdafe0d8e723312cdc11526e9c8ce59d6d2c1011c7d3c4b234"
 metafile = true
 
 [[files]]
@@ -388,11 +388,6 @@ metafile = true
 [[files]]
 file = "mods/villagerfix.toml"
 hash = "29b67cd462720c186a7c0e3a7fad18af30acaa032ea77a5fd73de16901ff6dac"
-metafile = true
-
-[[files]]
-file = "mods/waddles.toml"
-hash = "99dfdcfc11b340906dc9e78f94ddb0a6cae685e489a9f367070cd2c9217680ac"
 metafile = true
 
 [[files]]
