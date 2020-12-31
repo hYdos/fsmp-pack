@@ -261,6 +261,11 @@ hash = "506d4d6e17ab74adbaf7980af075d87c69e488d39fc33b68b2751bed24c9fd66"
 metafile = true
 
 [[files]]
+file = "mods/nbt-crafting.toml"
+hash = "79078e38d1e7d836b40fff447c84b38428a6c738848e48ee0e8f1ed2bb602aa7"
+metafile = true
+
+[[files]]
 file = "mods/netherite-plus-mod.toml"
 hash = "b5b6a237b82ea7ad69319276691018b57b979b157895e8c5af45daee3141d35d"
 metafile = true
