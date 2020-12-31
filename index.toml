@@ -41,6 +41,11 @@ hash = "e3a0390708a5965a643bd08d2470efb0208b6ec5ed8a338aeebfb07edc283e1f"
 metafile = true
 
 [[files]]
+file = "mods/campanion.toml"
+hash = "88745ac7b0b718ce5eaf95b93169e9f9e92ab1f57e97c1e21cda0e8c1f904d0a"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components.toml"
 hash = "3c40ca216ac880dd4fd9cdd15ffe04a8fcd4037be5406b667331365d83534700"
 metafile = true
