@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.toml"
-hash = "71a8eb7afffb4855b8230de7ec6a879944ffd5021e7a71e5fbc3db4a4474e10e"
+hash = "1241c5ad5c530d7c85231175525e4d4a7dcddd8d7de9768bfb8245139921dda1"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.toml"
-hash = "512d1802c033bdabf8ff1ef123fdefcb13b51b847d2d9341942f4ee2a0e0b1d3"
+hash = "71cdb19082ba43cf7229ecd5088514c3d6ad5d9a4079671d63bca4d4497ef4ba"
 metafile = true
 
 [[files]]
@@ -97,17 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia-fabric.toml"
-hash = "3023f220608cd3d893bdf58639f0ccb07c4bb2ce39581ed6013dafc415e2b27e"
+hash = "c72ff8ced668fad75818a4c84970cbb87c088c4ff928082edc9d3412a09a16b2"
 metafile = true
 
 [[files]]
 file = "mods/crumbs-fabric.toml"
 hash = "75d7c8a17338d50728b456dd603b89e18b32c27668191c331c9acb875c714627"
-metafile = true
-
-[[files]]
-file = "mods/css-potted-plant.toml"
-hash = "3063a4a77bdcb20b0964e8ad5401b4b305c425e7a848a7adcfb47c0609039eb9"
 metafile = true
 
 [[files]]
@@ -118,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/dont-clear-chat-history.toml"
 hash = "a7de8507f2293d070f9396f9785baa7237963bb7c0130c76942d9d3d009e1cc9"
+metafile = true
+
+[[files]]
+file = "mods/draylars-battle-towers.toml"
+hash = "a4ecb99fb77838e92ee09dc0ed92c2604aef86541d9f5e72ce5043015e6f037a"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "5b8fba03d733b185c810350390b19623ac7f89bebc78bce96293cbdfd6f380ca"
+hash = "407dff72b1a36bf82e051cf82d3b03ad14345870fa51ff2f9bd5a8cc7ae24922"
 metafile = true
 
 [[files]]
@@ -173,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/flonters.toml"
 hash = "08840c87a6de20d05f41aafd836d8b5d09917df8b8227f1c8ccffc165814bffd"
+metafile = true
+
+[[files]]
+file = "mods/framed.toml"
+hash = "d4dfa01d6f3ade38d73fc49b24188ed6df0a3838af271912529a601b11521ee6"
 metafile = true
 
 [[files]]
@@ -262,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/mooblooms.toml"
-hash = "506d4d6e17ab74adbaf7980af075d87c69e488d39fc33b68b2751bed24c9fd66"
+hash = "d6a61d6d9366feb0fd15b0c720989e4673a8b58034ae6484cb2a839128d738ef"
 metafile = true
 
 [[files]]
@@ -302,17 +307,17 @@ metafile = true
 
 [[files]]
 file = "mods/pling.toml"
-hash = "71f8ace491a1b476d16802ccebc8e0399b1c892d9a33ff80deb549444d8e6f30"
+hash = "ff714edaf62735149face116f54dbd4005268e02f016b65082b208499f250a1d"
 metafile = true
 
 [[files]]
 file = "mods/polymorph-fabric.toml"
-hash = "1ebb5152589ebd5675e28cc7df7d2cac520d2297ad99fbf3b95b6368e0c2217d"
+hash = "ed88a4b8f478340f01020380e8a6c1a81dda4fc3fda64ecf1f7f24947bbc33e0"
 metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.toml"
-hash = "442c89f8c5027bbfe31b964422092142b064c2cc453996d835c73eff56118e4d"
+hash = "172a993f0eefb317275890e4c4ba2d599434259b696e2cc1c515d77fa9c910c7"
 metafile = true
 
 [[files]]
@@ -353,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/slimefinder-fabric.toml"
 hash = "e5db35c72b7bec36c5f0800f8e1aeda71c348cd102b74c9c312387dc8b0c00a8"
+metafile = true
+
+[[files]]
+file = "mods/smithee.toml"
+hash = "81d64138392a2e14e148a37ebe7fcd2416c08fa2c7ad4d5953325b83cad3718f"
 metafile = true
 
 [[files]]
