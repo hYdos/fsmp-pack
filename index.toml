@@ -344,15 +344,3 @@ metafile = true
 file = "mods/yungs-better-caves-fabric.toml"
 hash = "35df9fea862e2443aa5f444ecfe28aa82ae5b8dd94aa05318f0fce130ab9b1a4"
 metafile = true
-
-[[files]]
-file = "utils/completion.go"
-hash = "17ac7c358811ad734dac1b046d7789ce9bcf26393776493369d1bb59b861681b"
-
-[[files]]
-file = "utils/markdown.go"
-hash = "d1aa87ab52f50b1b09622a6c6b8371bdd3b315049a3f4646c6b50fc9860b292d"
-
-[[files]]
-file = "utils/utils.go"
-hash = "931884eeb77fad66255c635c3b66898280555706c4e744ad5dff7826ffa4036c"
