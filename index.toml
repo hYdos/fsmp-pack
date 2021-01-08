@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/go.yml"
-hash = "982c9f47bb72706bf20af938828e5066a47e3eb1f26af879a8551dc936ecc65c"
-
-[[files]]
-file = ".gitignore"
-hash = "e962f08e22734e7c2084e32b391ef41716375b9fb1b884fae306f96043bd1d23"
-
-[[files]]
-file = "LICENSE"
-hash = "1562a639d7aeab4f9ab3a262e0c96c593b29a99b55031fd1ec8394ee6dd77727"
-
-[[files]]
-file = "README.md"
-hash = "5835ba618d81b5ec1d0d2a36b475cd18f25c1e19e3121666e95a5d6152c5fcd3"
-
-[[files]]
 file = "cmd/init.go"
 hash = "c71f520a7cf10aca31f8ccbbfc28e69d027eea47734a92bc0a2530539fd1f78e"
 
