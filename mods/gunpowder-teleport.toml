@@ -1,0 +1,14 @@
+name = "Gunpowder Teleport"
+filename = "gunpowder-teleport-1.0.2+gunpowder.0.3.1.mc.1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3139/467/gunpowder-teleport-1.0.2+gunpowder.0.3.1.mc.1.16.4.jar"
+hash-format = "murmur2"
+hash = "845008908"
+
+[update]
+[update.curseforge]
+file-id = 3139467
+project-id = 402042
+release-channel = "beta"
