@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas.toml"
-hash = "bc7b7eaf3071b49127959d6ceb018edbadb93b3f54dbbd08035649d84ddc321c"
+hash = "210a70cb75eb16365c1d48ddeb5ee1bd2ae4d47d1e864fc4e80739536062f23f"
 metafile = true
 
 [[files]]
@@ -83,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/columns.toml"
 hash = "d6070f559be29860457b9dc8014ba1431a36e72fe5c570009a57dcd550fe4828"
+metafile = true
+
+[[files]]
+file = "mods/couplings-for-fabric-updated.toml"
+hash = "296dd73743cac284b9f0b5863feb0a0a27f046ebb91cbd21d64f55f999812480"
 metafile = true
 
 [[files]]
@@ -323,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/terrestria.toml"
 hash = "1d93f193bb2e98c3a45453a91faf13b83246dc54e0ae06007643a5486f00553b"
+metafile = true
+
+[[files]]
+file = "mods/tis-3d-additions.toml"
+hash = "a59f71e82e605d680ff752da25e5f6164584fa6cccdf227e1130969339e9d3ab"
 metafile = true
 
 [[files]]
