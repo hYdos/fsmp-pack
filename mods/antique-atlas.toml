@@ -1,14 +1,14 @@
 name = "Antique Atlas"
-filename = "antiqueatlas-5.4.0-fabric.jar"
+filename = "antiqueatlas-5.4.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3155/190/antiqueatlas-5.4.0-fabric.jar"
+url = "https://edge.forgecdn.net/files/3163/453/antiqueatlas-5.4.1-fabric.jar"
 hash-format = "murmur2"
-hash = "2767583736"
+hash = "2724993784"
 
 [update]
 [update.curseforge]
-file-id = 3155190
+file-id = 3163453
 project-id = 227795
 release-channel = "beta"
