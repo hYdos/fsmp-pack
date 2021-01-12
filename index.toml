@@ -603,5 +603,9 @@ hash = "35df9fea862e2443aa5f444ecfe28aa82ae5b8dd94aa05318f0fce130ab9b1a4"
 metafile = true
 
 [[files]]
+file = "resourcepacks/GlintFix.zip"
+hash = "3dc9d300505befd2c7e5953c2b0e967566742453db86fe5e67712a981e9f0633"
+
+[[files]]
 file = "resourcepacks/TwemojiFont.zip"
 hash = "5ea155f627b4c7322e301711b11161785be635b88ddf07a464f5d632cad4d4d2"
