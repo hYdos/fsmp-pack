@@ -222,11 +222,6 @@ hash = "08840c87a6de20d05f41aafd836d8b5d09917df8b8227f1c8ccffc165814bffd"
 metafile = true
 
 [[files]]
-file = "mods/framed.toml"
-hash = "5763281b430323af8aff46e5abf863d85ae558e734c9137c1248818db21b40d1"
-metafile = true
-
-[[files]]
 file = "mods/gentle-fawn.toml"
 hash = "39402cbd16de985174f80fbb03563f5e91b5ae3d3b8b9c2260a71fd555eabfb6"
 metafile = true
