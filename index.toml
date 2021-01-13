@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.toml"
-hash = "1241c5ad5c530d7c85231175525e4d4a7dcddd8d7de9768bfb8245139921dda1"
+hash = "4e19e871300bc4cbc87c4a49fccc3a39014b465656060085fca8ba91ebea5277"
 metafile = true
 
 [[files]]
@@ -440,6 +440,11 @@ metafile = true
 [[files]]
 file = "mods/gunpowder-teleport.toml"
 hash = "b0d3976df013b68769fa55f19faa22ff942acacd0176a63654355258662437b8"
+metafile = true
+
+[[files]]
+file = "mods/hdskins.toml"
+hash = "e0adf9479d04fedc37edd03d078697b79aab3a5a294ed7dff9f4925d3378351a"
 metafile = true
 
 [[files]]
