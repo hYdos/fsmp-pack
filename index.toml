@@ -367,11 +367,6 @@ hash = "e5db35c72b7bec36c5f0800f8e1aeda71c348cd102b74c9c312387dc8b0c00a8"
 metafile = true
 
 [[files]]
-file = "mods/smithee.toml"
-hash = "81d64138392a2e14e148a37ebe7fcd2416c08fa2c7ad4d5953325b83cad3718f"
-metafile = true
-
-[[files]]
 file = "mods/spawn-lanterns.toml"
 hash = "803a4ac6925b91dd269725782d0bae920fb72f3d74fdd5f273778c2ae5929457"
 metafile = true
