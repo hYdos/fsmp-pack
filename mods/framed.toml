@@ -1,0 +1,14 @@
+name = "HELP! I'm being framed!"
+filename = "framed-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3167/176/framed-1.0.2.jar"
+hash-format = "murmur2"
+hash = "3181829789"
+
+[update]
+[update.curseforge]
+file-id = 3167176
+project-id = 356723
+release-channel = "beta"
