@@ -2,59 +2,23 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bebooks/config.properties"
-hash = "b9a3a79e160e62931fd2cb05b3007ea578e377043c84cfcb2c89b03b390b07f1"
+hash = "a6a336e39c15177e34584d1d3a16a0c29a7316cb3f879cec5542372f0ec040f9"
 
 [[files]]
 file = "config/bebooks/enchantment_data.json"
 hash = "8d290ae0bcf5dd5abe976962560d0602863011aaa9a377ff8891d4a09cc5c1d3"
 
 [[files]]
-file = "config/campanion.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/eldritch_mobs.json5"
-hash = "9ea61df8ab873836842108c4294f885d6bba30e7b7261636afac8275c675d23d"
-
-[[files]]
 file = "config/fabric-tree-chopper.json"
-hash = "97fd77194689555409563ee902672ee2bc6f188b43ab2007bd0001736ba0a877"
-
-[[files]]
-file = "config/gunpowder-teleport.yaml"
-hash = "673dedd0e627df6bf63d7390c099fc69c7c19a0308f88b90c3c579fcbcde1866"
-
-[[files]]
-file = "config/gunpowder.yaml"
-hash = "4aeb5f32333e3d967b2adc0db7ef3952757e841f5aa798142941fb576293b09e"
+hash = "afb60e78f643f1799898fb5cff238dcffe95a8c6fb016300bf3771f6d8b3fcbd"
 
 [[files]]
 file = "config/netherite_plus.json"
-hash = "c28399ba29868630d26b74fbbd188be53a19eafe1457bc5b7a24ac08ff428312"
+hash = "e415d2902c37d14a7ca8a86669a2eae480120f37576816cc9a9d43e55c42600f"
 
 [[files]]
-file = "config/simplexterrain/noisemodifiers/details.json"
-hash = "85c6ac0feddd25abd2907d4ee0b702311bf4230076aa8f5ff1b6b6ae5cf0b6e0"
-
-[[files]]
-file = "config/simplexterrain/noisemodifiers/mountains.json"
-hash = "96af43200f963071db64d85a39e395835b0ecc5442064c828e2c071ec896474f"
-
-[[files]]
-file = "config/simplexterrain/noisemodifiers/ridges.json"
-hash = "ecbea3f988fb23bf2051221119158b10376ea110cf39202ac75e7886990f1441"
-
-[[files]]
-file = "config/simplexterrain/noisemodifiers/rivers.json"
-hash = "74c5170907721c6fb905879ad2d8f741e6703f884ecde88d9acf0814a4c469a2"
-
-[[files]]
-file = "config/waystones/config.json"
-hash = "7b48ccf8c1e14c35ff34f1138610d4c10b9a67c99575703a936c5ca07cfb097c"
-
-[[files]]
-file = "config/waystones/recipe.json"
-hash = "004bcb647537ad405d68e60542b3a8084557bec2b98e4ef1423b43619ce90bc3"
+file = "config/supernaturalcrops.json"
+hash = "7f35721dc678e75b8a81d6364ff51d451a3c22e8926522c7d7ca0bfcc6d9ac10"
 
 [[files]]
 file = "mods/adorn.toml"

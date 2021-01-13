@@ -22,11 +22,11 @@
   },
   "damage": {
     "bow_damage_addition": 0.0,
-    "bow_damage_multiplier": 1.0,
+    "bow_damage_multiplier": 1.2,
     "crossbow_damage_addition": 0.0,
-    "crossbow_damage_multiplier": 1.0,
+    "crossbow_damage_multiplier": 1.4,
     "trident_damage_addition": 0.0,
-    "trident_damage_multiplier": 1.0
+    "trident_damage_multiplier": 1.2
   },
   "anvil": {
     "xp_reduction": 0.5
