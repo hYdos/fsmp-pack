@@ -1,14 +1,14 @@
 name = "Discerning Furnace"
-filename = "discerning-furnace-1.0.0+MC1.16.1-1.16.4.jar"
+filename = "discerning-furnace-1.0.1+MC1.16.1-1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3141/51/discerning-furnace-1.0.0+MC1.16.1-1.16.4.jar"
+url = "https://edge.forgecdn.net/files/3170/224/discerning-furnace-1.0.1+MC1.16.1-1.16.5.jar"
 hash-format = "murmur2"
-hash = "996526486"
+hash = "1815920102"
 
 [update]
 [update.curseforge]
-file-id = 3141051
+file-id = 3170224
 project-id = 428966
 release-channel = "beta"
